@@ -1,1 +1,5 @@
 # common-schools-map
+
+## abstract
+
+This project uses digital mapping to chart the multiple histories and spaces of public education in New York State over the nineteenth century. In turn, my project will visualize the prelavence of the common school era by mapping these institutes in ways that are often neglected in formal accounts of NYS history. I will visualize some of the the geographic and institutional sites of the common school movement in NYS preceding the historical development of widespread state oversight. In doing so, I will build a digital map that plots a series of common school locations, integrated with photographic and archival documentation of the institute in question. This alternative approach allows me to constellate these educational histories in locally and historically situated ways, while also connecting archival and cartographic data related to each of these schools. Accordingly, my project will culminate in a preliminary map meant to raise visibility around the transformation of common schools from community-led educational spaces to centralized sites of state governance. 
